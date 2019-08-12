@@ -1,2 +1,2 @@
 # home-template
-模板创建
+CLI util模板
